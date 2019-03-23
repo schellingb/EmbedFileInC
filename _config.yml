@@ -1,0 +1,8 @@
+name: EmbedFileInC
+description: "Generates code to easily embed files into C/C++ source code"
+markdown: kramdown
+paginate: 5
+permalink: /:title
+rss-feed-limit: 10
+rss-show-full: "no"
+with_toc_data: true
